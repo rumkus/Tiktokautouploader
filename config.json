@@ -1,0 +1,10 @@
+{
+  "client_key": "TU_CLIENT_KEY_AQUI",
+  "client_secret": "TU_CLIENT_SECRET_AQUI",
+  "redirect_port": 8585,
+  "default_privacy": "SELF_ONLY",
+  "watch_folder": "",
+  "move_after_upload": true,
+  "process_existing": true,
+  "delay_between_uploads": 10
+}
